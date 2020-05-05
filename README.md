@@ -17,5 +17,5 @@ you can request conditions like:
     -   whereNotIn
 
 > from server
-
-you can custom in ` app/http/controller/usercontroller.php `
+if you want to add other custome query, you can custom in 
+` app/http/controller/usercontroller.php `
