@@ -2,7 +2,7 @@
 test magang dari jagoan hosting
 
 ## how it work
-### from client
+> from client
 you can request conditions like:
 
     - whereColumn
@@ -16,4 +16,4 @@ you can request conditions like:
         -   whereIn
         -   whereNotIn
 
-### from server
+> from server
