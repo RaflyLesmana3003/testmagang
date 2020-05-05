@@ -3,7 +3,8 @@ test magang dari jagoan hosting
 
 ## how it work
 -from client
-   you can request conditions like:
+you can request conditions like:
+
             - whereColumn
             - whereNull
             - whereNotIn
