@@ -2,7 +2,8 @@
 test magang dari jagoan hosting
 
 ## how it work
-> from client
+> to client
+
 you can request conditions like:
 
 - whereColumn
@@ -16,7 +17,8 @@ you can request conditions like:
     -   whereIn
     -   whereNotIn
 
-> from server
+> to server
+
 if you want to add other custome query, you can custom in
 
 ` app/http/controller/usercontroller.php `
