@@ -5,16 +5,16 @@ test magang dari jagoan hosting
 > from client
 you can request conditions like:
 
-    - whereColumn
-    - whereNull
-    - whereNotIn
-    - whereIn
-    - whereNotBetween
-    - whereBetween
-    - orWhere 
-    - orWhere function
-        -   whereIn
-        -   whereNotIn
+- whereColumn
+- whereNull
+- whereNotIn
+- whereIn
+- whereNotBetween
+- whereBetween
+- orWhere 
+- orWhere function
+    -   whereIn
+    -   whereNotIn
 
 > from server
 
