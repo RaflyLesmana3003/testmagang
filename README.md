@@ -17,6 +17,8 @@ you can request conditions like:
     -   whereIn
     -   whereNotIn
 
+note: send conditions with array
+
 > to server
 
 if you want to add other custome query, you can custom in
